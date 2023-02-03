@@ -28,4 +28,4 @@ Finally evaluation and monitoring, last step among all 10.
 
 And here we got an accuracy of 96.21993127147766 %
 
-/***********************************************\
+*****
