@@ -2,7 +2,7 @@ In this MCdonadls case study, I written python code in Jupyter Notebook for all 
 Import the dataset provided, i.e "mcdonalds.csv".
 Now in data-preprocessing phase:
 1. Convert the categorical data to numerical data
-2. Check for NULL values or other indertiminant symbols 
+2. Check for NULL values or other indertiminant symbols.
 And then for extracting segments, KMeans clustering was used.
 So, using elbow method I got 4 clusters as you can see in provided ipnyb file.
 And datapoints also visualised in a scatterplot of all four clusters.
